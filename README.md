@@ -13,7 +13,7 @@
 
 <div align="justify">
 
-I am a backend developer in training at <strong>ALX Africa</strong>, driven by a mission to transform the world of medicine through technology. What inspires me most is using software to bridge gaps in healthcare, especially in under-resourced communities.  
+I am a backend developer  at <strong>ALX Africa</strong>, driven by a mission to transform the world of medicine through technology. What inspires me most is using software to bridge gaps in healthcare, especially in under-resourced communities.  
 
 My goal is to become a skilled software engineer capable of building innovative medical technologies that improve access, security, and reliability of health data. I believe technology, when built with empathy, can save lives.  
 
