@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Daniel Arku</h1>
-<h3 align="center">Backend Developer | HealthTech Visionary | ALX Backend Pro Learner</h3>
+<h3 align="center">Backend Developer | HealthTech Visionary | ALX Backend Pro </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Backend%20Developer-ALX-blue" alt="ALX Badge" />
